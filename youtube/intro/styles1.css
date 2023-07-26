@@ -1,0 +1,43 @@
+
+p{
+    font-family: Roboto, Arial, sans-serif;
+}
+.video-title{
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+}
+.stats{
+    font-size: 14px;
+    color: #606060;
+}
+.creator-name{
+    font-weight: 500;
+    margin: 0px -1.6px 0px 0px;
+    padding:  0px 1.6px 0px 0px;
+}
+.sub-num{
+    font-size: 12px;
+    margin: 0px 4px 0px 0px;
+    color: #606060;
+}
+.description{
+    font-size: 14px;
+    color: #131313;
+    width: 280px;
+}
+.apple{
+    font-family:  SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+a{
+    color: #0066CC;
+    text-decoration-line: none;
+}
+a:hover{
+    text-decoration: underline;
+}
